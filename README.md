@@ -1,4 +1,4 @@
-# ISO - A COVID-19 Game
+# ISO(Isolation) - A COVID-19 Game
 ISO is a game that provides an interactive learning environment so that people can better understand what to do to avoid getting infected and to stop the spread of COVID-19.  
 Hope you enjoy it.  
 
